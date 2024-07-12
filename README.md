@@ -1,7 +1,7 @@
 ![ViewCount](http://bit.ly/Thomas-Github-Visits)
 
 
-<h1 align="center">Hi 👋, I'm Angelica Jaspe</h1>
+<h1 align="center">Hi 👋, I'm Jasura - Angelica Jaspe</h1>
 <h3 align="center">A Software developer</h3>
 
 I am FullStack with main focus on Frontend. 
